@@ -1,6 +1,6 @@
 <div align="center">
-<img src="ìndice.png">
+<img src="/índice.png">
 </div>
 
-# -Hacking.Rio
+
 Participantes mandem seu numero de contato como issues.
