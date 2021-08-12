@@ -3,4 +3,4 @@
 </div>
 
 
-# Participantes mandem seu numero de contato como issues.
+# Participante entre na aba<a href="https://github.com/ArthurMaverick/-Hacking.Rio/discussions">Discução</a> e deixe suas informações.
