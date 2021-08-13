@@ -7,6 +7,6 @@
 </div>
 
 # Quer fazer parte da Go Horse? 
-## Entre na aba <a href="https://github.com/ArthurMaverick/-Hacking.Rio/discussions">Discução</a> e deixe suas informações
+## Entre na aba <a href="https://github.com/ArthurMaverick/-Hacking.Rio/discussions">Discussão</a> e deixe suas informações
 
 
